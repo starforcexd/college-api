@@ -1,0 +1,346 @@
+Name,PredominantDegree,HighestDegree,FundingModel,Region,Geography,AdmissionRate,ACTMedian,SATAverage,AverageCost,Expenditure,AverageFacultySalary,MedianDebt,AverageAgeofEntry,MedianFamilyIncome,MedianEarnings
+Alabama A & M University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8989,17,823,18888,7459,7079,19500,20.6299992,29039,27000
+University of Alabama at Birmingham,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8673,25,1146,19990,17208,10170,16250,22.6700001,34909,37200
+University of Alabama in Huntsville,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8062,26,1180,20306,9352,9341,16500,23.1900005,39766,41500
+Alabama State University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.5125,17,830,17400,7393,6557,15854.5,20.8899994,24029.5,22400
+The University of Alabama,Bachelor's,Graduate,Public,Southeast,Small City,0.5655,26,1171,26717,9817,9605,17750,20.7700005,58976,39200
+Auburn University at Montgomery,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8371,21,970,16556,6817,7173,10750,23.4300003,27378,32400
+Auburn University,Bachelor's,Graduate,Public,Southeast,Small City,0.8274,27,1215,23788,11324,9429,18250,20.3299999,71775.5,41800
+Birmingham Southern College,Bachelor's,Bachelor's,Private,Southeast,Mid-size City,0.6422,26,1177,44512,9990,7513,21500,19.6200008,89942.5,38200
+Huntingdon College,Bachelor's,Bachelor's,Private,Southeast,Mid-size City,0.6279,22,999,31433,6571,6027,16850,22.9099999,54275.5,33000
+Jacksonville State University,Bachelor's,Graduate,Public,Southeast,Small City,0.8326,23,1036,19202,6949,6857,16500,22.8199997,35158,31300
+Judson College,Bachelor's,Bachelor's,Private,Southeast,Remote Rural,0.7388,22,1023,27815,9293,5638,14250,22.6100006,43020,25300
+University of West Alabama,Bachelor's,Graduate,Public,Southeast,Remote Rural,0.9957,20,950,17959,8898,6408,13500,22.5599995,23735,32200
+Marion Military Institute,Associate,Associate,Public,Southeast,Remote Rural,0.6034,22,1040,16520,6128,5909,5500,19.8700008,48241,37900
+University of Mobile,Bachelor's,Graduate,Private,Southeast,Fringe Rural,0.7125,23,1058,30108,6715,5024,22500,25.1299992,37643,32900
+University of Montevallo,Bachelor's,Graduate,Public,Southeast,Large Suburb,0.8729,23,1070,20209,7719,7035,15872,21.5599995,48019,30400
+University of North Alabama,Bachelor's,Graduate,Public,Southeast,Small City,0.8092,22,1028,15058,6814,7152,12542,22.2000008,40030,33000
+Oakwood University,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.3435,20,924,34705,7656,5307,22000,21.2299995,42094.5,27300
+Samford University,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.7697,26,1153,38835,14054,8261,20000,21.0200005,77481,41400
+University of South Alabama,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8604,23,1064,17125,10325,7212,15000,23.6900005,30958,34400
+Spring Hill College,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.4627,24,1100,43325,6999,6057,20500,21.4899998,58994,37500
+Southeastern Bible College,Bachelor's,Bachelor's,Private,Southeast,Large Suburb,0.9615,21,970,19127,4314,4577,19414.5,26.7800007,44006,27200
+Stillman College,Bachelor's,Bachelor's,Private,Southeast,Small City,0.43,19,882,24744,4330,4743,19000,20.5400009,25809,23200
+Troy University,Bachelor's,Graduate,Public,Southeast,Fringe Rural,0.6821,21,990,16877,5260,5996,17750,27.5300007,27401,33800
+Tuskegee University,Bachelor's,Graduate,Private,Southeast,Distant Town,0.3511,20,937,32853,13235,6679,23687.5,19.5900002,39069,30800
+Alaska Pacific University,Bachelor's,Graduate,Private,Far West,Large City,0.3745,22,1008,42925,10753,5137,19250,26.5200005,48081.5,38000
+Arizona State University-Tempe,Bachelor's,Graduate,Public,Southwest,Mid-size City,0.8023,25,1145,21960,9080,10405,16250,22.5599995,43477,41200
+University of Arizona,Bachelor's,Graduate,Public,Southwest,Large City,0.7692,24,1106,23905,11382,10320,13500,21.5200005,46758,40000
+Embry-Riddle Aeronautical University-Prescott,Bachelor's,Graduate,Private,Southwest,Fringe Rural,0.7898,26,1171,45228,18433,8387,16500,23.2299995,52839,53800
+Northern Arizona University,Bachelor's,Graduate,Public,Southwest,Small City,0.9137,23,1050,22771,6893,7863,15000,23.6200008,43127,36200
+Prescott College,Bachelor's,Graduate,Private,Southwest,Small City,0.7293,26,1094,40206,6669,4248,19874.5,29.8199997,29669,30800
+Arizona Christian University,Bachelor's,Bachelor's,Private,Southwest,Large City,0.6076,23,1045,34444,5656,4617,13136.5,22.2999992,43195,29300
+University of Arkansas at Little Rock,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.5274,24,1077,19894,7292,7480,14250,25.1399994,26332.5,31600
+Lyon College,Bachelor's,Bachelor's,Private,Southeast,Remote Town,0.5898,25,1142,33355,11002,6354,12000,20.8999996,49042.5,35500
+University of Arkansas,Bachelor's,Graduate,Public,Southeast,Small City,0.5858,26,1156,19917,8349,8902,14990,21.4599991,52612,39200
+University of Arkansas at Pine Bluff,Bachelor's,Graduate,Public,Southeast,Small City,0.277,18,842,15414,7154,5341,13698.5,21.5100002,23857,23700
+Arkansas State University-Main Campus,Bachelor's,Graduate,Public,Southeast,Small City,0.7551,24,1088,18809,5002,6957,13300,23.9799995,27550,29100
+Arkansas Tech University,Bachelor's,Graduate,Public,Southeast,Remote Town,0.8503,22,1008,16126,4550,6096,10043,23.0499992,31932,30600
+University of Central Arkansas,Bachelor's,Graduate,Public,Southeast,Small City,0.8997,23,1070,17899,6851,6434,11864,21.1000004,39480,33300
+Central Baptist College,Bachelor's,Bachelor's,Private,Southeast,Small City,0.5407,21,974,20386,5075,4948,10828,24.4699993,44821,31200
+Harding University,Bachelor's,Graduate,Private,Southeast,Distant Town,0.7628,25,1139,25475,9503,7082,19801.5,20.5900002,76594,35500
+Henderson State University,Bachelor's,Graduate,Public,Southeast,Distant Town,0.6221,22,1011,18033,6124,5606,10443,22.0900002,32258,32300
+Hendrix College,Bachelor's,Graduate,Private,Southeast,Small City,0.8039,29,1267,50172,12018,7233,19500,19.4799995,80333,36100
+John Brown University,Bachelor's,Graduate,Private,Southeast,Distant Town,0.6982,25,1144,33326,7040,6425,17900,25.4300003,53841.5,43100
+Ouachita Baptist University,Bachelor's,Bachelor's,Private,Southeast,Distant Town,0.7011,24,1090,31473,8912,4598,15000,19.5900002,71658,34600
+University of the Ozarks,Bachelor's,Bachelor's,Private,Southeast,Remote Town,0.6136,23,1057,34532,10651,5489,12349.5,20.4599991,44123,33300
+University of Arkansas Community College-Morrilton,Associate,Associate,Public,Southeast,Distant Town,0.5838,20,930,11593,3700,4606,5500,25.6100006,20671,25000
+Williams Baptist College,Bachelor's,Bachelor's,Private,Southeast,Distant Rural,0.6798,22,1001,22330,5339,5359,10000,21.2399998,39189,28400
+Southern Arkansas University Main Campus,Bachelor's,Graduate,Public,Southeast,Remote Town,0.6081,21,989,17738,6317,6077,10500,22.4099999,27662,31700
+University of Arkansas-Fort Smith,Bachelor's,Bachelor's,Public,Southeast,Small City,0.5736,22,1028,14335,5165,6658,8240,24.2900009,25892,28400
+Azusa Pacific University,Bachelor's,Graduate,Private,Far West,Large Suburb,0.7985,24,1098,44021,10343,9231,19000,24.5100002,72335.5,45800
+Biola University,Bachelor's,Graduate,Private,Far West,Large Suburb,0.7286,25,1123,44573,10435,8924,19688,22.2099991,71594,37600
+California Baptist University,Bachelor's,Graduate,Private,Far West,Large City,0.788,21,984,39026,8008,8355,19500,23.8600006,63947,36600
+California Institute of Technology,Bachelor's,Graduate,Private,Far West,Mid-size City,0.1055,34,1534,56382,92854,16120,14583,19.7900009,53201,60100
+California Lutheran University,Bachelor's,Graduate,Private,Far West,Mid-size City,0.4802,24,1108,48630,8149,9597,19500,21.7299995,76461,44300
+California Polytechnic State University-San Luis Obispo,Bachelor's,Graduate,Public,Far West,Small Suburb,0.3123,28,1242,23867,9907,8675,17500,20.3999996,72114,55400
+California State University-Bakersfield,Bachelor's,Graduate,Public,Far West,Large City,0.6626,19,901,18061,6087,8122,11000,24.3999996,28069.5,42300
+California State University-Stanislaus,Bachelor's,Graduate,Public,Far West,Small Suburb,0.7215,19,917,17161,8274,8072,14000,23.6499996,31658.5,38500
+California State University-San Bernardino,Bachelor's,Graduate,Public,Far West,Mid-size City,0.5831,18,888,17030,6585,8558,16431,24.0400009,28986.5,40600
+California State Polytechnic University-Pomona,Bachelor's,Graduate,Public,Far West,Large Suburb,0.5218,23,1070,19402,7355,9101,15703.5,21.7399998,30962,45000
+California State University-Chico,Bachelor's,Graduate,Public,Far West,Small City,0.7161,22,1014,22926,6800,8370,14889.5,22.2900009,37864,41100
+California State University-Dominguez Hills,Bachelor's,Graduate,Public,Far West,Small City,0.5747,17,845,12957,6807,8202,14191,25.5200005,25199.5,39100
+California State University-Fresno,Bachelor's,Graduate,Public,Far West,Large City,0.5815,19,920,16377,6446,8027,14500,22.3600006,28781,38100
+California State University-Fullerton,Bachelor's,Graduate,Public,Far West,Large Suburb,0.4579,22,1021,16663,7685,8521,12900.5,22.6000004,31500,40500
+California State University-East Bay,Bachelor's,Graduate,Public,Far West,Mid-size City,0.6872,19,910,20676,6978,8804,12500,24.8199997,22898,45800
+California State University-Long Beach,Bachelor's,Graduate,Public,Far West,Large City,0.3082,21,1012,18085,7422,8671,14494,22.1900005,30725,42400
+California State University-Los Angeles,Bachelor's,Graduate,Public,Far West,Large City,0.6752,18,871,14747,6569,8767,12000.5,24.2099991,20015,39400
+California State University-Northridge,Bachelor's,Graduate,Public,Far West,Large City,0.4624,19,918,20899,6952,8395,12500,22.6399994,27373,38300
+California State University-Sacramento,Bachelor's,Graduate,Public,Far West,Large City,0.6968,20,945,19380,7281,8364,15000,23.1399994,28449,42700
+University of California-Berkeley,Bachelor's,Graduate,Public,Far West,Mid-size City,0.18,30,1350,32715,18072,14652,14480,20.7800007,39266,53000
+University of California-Davis,Bachelor's,Graduate,Public,Far West,Small Suburb,0.4521,26,1192,31803,21365,12065,13626.5,20.5100002,41894,48500
+University of California-Irvine,Bachelor's,Graduate,Public,Far West,Mid-size City,0.4239,24,1122,28980,17853,12839,15500,20.1900005,50385,47100
+University of California-Los Angeles,Bachelor's,Graduate,Public,Far West,Large City,0.2199,28,1289,31474,38489,15089,15200,20.9200001,34557.5,51000
+University of California-Riverside,Bachelor's,Graduate,Public,Far West,Large City,0.62,23,1078,29787,10473,11324,17000,20.0799999,43078.5,41100
+University of California-San Diego,Bachelor's,Graduate,Public,Far West,Large City,0.375,28,1276,29751,22757,13126,18463,20.2000008,41248,50100
+University of California-Santa Barbara,Bachelor's,Graduate,Public,Far West,Mid-size Suburb,0.4444,27,1212,31913,10571,13048,15000,20.0499992,51240,45600
+University of California-Santa Cruz,Bachelor's,Graduate,Public,Far West,Small City,0.5991,23,1087,33208,8338,12110,16500,20.2800007,58508,37800
+California Maritime Academy,Bachelor's,Graduate,Public,Far West,Mid-size City,0.748,24,1080,22223,13827,8259,21500,21.6000004,60317.5,74300
+Chapman University,Bachelor's,Graduate,Private,Far West,Mid-size City,0.4471,27,1208,57020,13977,11095,19000,27.7199993,53889,48000
+Concordia University-Irvine,Bachelor's,Graduate,Private,Far West,Mid-size City,0.9119,23,1020,41233,5628,7044,18112,22,71434,38000
+San Diego Christian College,Bachelor's,Graduate,Private,Far West,Large Suburb,0.492,21,986,37696,4972,5271,11806,23.0100002,51463,31000
+Claremont McKenna College,Bachelor's,Graduate,Private,Far West,Large Suburb,0.1173,31,1397,60065,26268,9388,12086,19.5400009,88986.5,55600
+Dominican University of California,Bachelor's,Graduate,Private,Far West,Small City,0.7752,23,1057,56165,14357,8770,25222,25.2000008,54367,48700
+Fresno Pacific University,Bachelor's,Graduate,Private,Far West,Large City,0.7844,20,979,33973,5520,6562,16802,26.0200005,44931.5,37600
+Harvey Mudd College,Bachelor's,Bachelor's,Private,Far West,Large Suburb,0.1817,34,1483,60613,27810,12450,25000,19.2999992,86164.5,68300
+Holy Names University,Bachelor's,Graduate,Private,Far West,Large City,0.5668,19,910,46994,7958,7717,21500,25.8500004,45708,45800
+Humboldt State University,Bachelor's,Graduate,Public,Far West,Remote Town,0.8018,21,1008,23113,8294,8148,15000,22.8799992,26935.5,30400
+Life Pacific College,Bachelor's,Graduate,Private,Far West,Large Suburb,0.7482,20,930,24492,3393,6394,13000,23.3999996,45853,24900
+University of La Verne,Bachelor's,Graduate,Private,Far West,Large Suburb,0.3895,23,1035,45305,7629,8605,22218,27.7600002,39519,45300
+La Sierra University,Bachelor's,Graduate,Private,Far West,Large City,0.4677,20,926,39842,10375,7230,14500,20.9300003,51186,37300
+The Master's College and Seminary,Bachelor's,Graduate,Private,Far West,Large Suburb,0.6137,25,1104,40815,7582,7063,15750,21.9799995,62514,35400
+Loyola Marymount University,Bachelor's,Graduate,Private,Far West,Large City,0.5412,27,1202,55432,14921,10098,20201.5,20.1200008,76696,49600
+Menlo College,Bachelor's,Bachelor's,Private,Far West,Large Suburb,0.3705,22,1001,51649,8329,11564,19125,21.2399998,54828,41700
+Mills College,Bachelor's,Graduate,Private,Far West,Large City,0.6798,26,1151,54668,15321,9759,20000,23.1399994,35189.5,32800
+Mount St Mary's College,Bachelor's,Graduate,Private,Far West,Large City,0.7409,19,928,47905,8160,8055,21500,23.8500004,39973.5,50300
+Notre Dame de Namur University,Bachelor's,Graduate,Private,Far West,Large Suburb,0.872,20,972,47115,6654,8084,18750,24.4400005,55277,47500
+Occidental College,Bachelor's,Graduate,Private,Far West,Large City,0.4239,29,1303,60655,16465,10402,20900,19.6100006,67714.5,41100
+Otis College of Art and Design,Bachelor's,Graduate,Private,Far West,Large City,0.4628,22,1002,52397,16683,6936,26500,21.75,36748,42400
+Hope International University,Bachelor's,Graduate,Private,Far West,Large Suburb,0.4681,20,951,40303,5886,5232,17250,26.5699997,51464,33000
+Pacific Union College,Bachelor's,Graduate,Private,Far West,Fringe Rural,0.5055,22,1017,38800,9586,6452,20832,22.8199997,64885,44600
+University of the Pacific,Bachelor's,Graduate,Private,Far West,Large City,0.7265,26,1172,52406,17606,10089,21250,22.0300007,40951,64000
+Point Loma Nazarene University,Bachelor's,Graduate,Private,Far West,Large City,0.6654,26,1155,43060,9224,9653,20500,21.9699993,78964,43900
+Pomona College,Bachelor's,Bachelor's,Private,Far West,Large Suburb,0.1392,33,1454,57014,34930,12326,8561,19.3799992,63215,43100
+University of Redlands,Bachelor's,Graduate,Private,Far West,Small City,0.672,25,1135,55268,9159,9234,24000,23.6399994,69769,47100
+San Diego State University,Bachelor's,Graduate,Public,Far West,Large City,0.3121,24,1090,20252,6797,9229,14495,21.9899998,37534,44000
+University of San Diego,Bachelor's,Graduate,Private,Far West,Large City,0.4885,28,1228,56346,13166,11648,19500,20.8500004,69873.5,53400
+San Francisco Art Institute,Bachelor's,Graduate,Private,Far West,Large City,0.8269,25,1061,55809,9575,8172,13650.5,24.2800007,28394,27700
+San Francisco State University,Bachelor's,Graduate,Public,Far West,Large City,0.6379,22,998,22267,7919,9147,15000,22.8600006,29962,42100
+University of San Francisco,Bachelor's,Graduate,Private,Far West,Large City,0.6129,25,1161,55812,15041,12409,23000,22.2099991,70581,53300
+William Jessup University,Bachelor's,Graduate,Private,Far West,Fringe Rural,0.6929,23,1039,34811,6607,7043,17000,25.0799999,56144,30300
+San Jose State University,Bachelor's,Graduate,Public,Far West,Large City,0.6347,22,1030,21160,8070,9155,14000,22.5499992,27853.5,48100
+Santa Clara University,Bachelor's,Graduate,Private,Far West,Mid-size City,0.5122,29,1294,57213,10783,11662,19500,19.9500008,100259,61500
+Scripps College,Bachelor's,Graduate,Private,Far West,Large Suburb,0.357,31,1364,58888,28314,10598,12500,19.7000008,79296,38800
+Simpson University,Bachelor's,Graduate,Private,Far West,Small City,0.555,22,1030,33889,6136,6144,16666,25.2199993,44207,28000
+Saint Mary's College of California,Bachelor's,Graduate,Private,Far West,Fringe Rural,0.6947,25,1115,56500,12462,9229,21500,22.0400009,65861,50300
+Sonoma State University,Bachelor's,Graduate,Public,Far West,Large Suburb,0.8186,22,1006,23675,7361,8448,14592,23.5200005,46028,40800
+Vanguard University of Southern California,Bachelor's,Graduate,Private,Far West,Mid-size City,0.6977,23,980,41952,6369,7714,19895,22.6299992,67855,33900
+Southern California Institute of Architecture,Bachelor's,Graduate,Private,Far West,Large City,0.8667,21,1137,50373,13100,9878,38000,23.6499996,20582,46900
+University of Southern California,Bachelor's,Graduate,Private,Far West,Large City,0.1984,31,1380,59787,42077,13045,21500,21.6599999,42938,62300
+Thomas Aquinas College,Bachelor's,Bachelor's,Private,Far West,Distant Rural,0.7921,27,1243,35056,11147,9253,15500,19.6800003,86948,33200
+Westmont College,Bachelor's,Graduate,Private,Far West,Mid-size Suburb,0.7016,27,1193,51760,14814,9329,19500,19.3799992,96799,39200
+Whittier College,Bachelor's,Graduate,Private,Far West,Large Suburb,0.6325,23,1043,49920,11366,8954,21500,19.7199993,75319,38900
+Woodbury University,Bachelor's,Graduate,Private,Far West,Large City,0.5575,22,987,42465,12067,9365,27000,22.9300003,35334.5,41200
+Adams State University,Bachelor's,Graduate,Public,Rocky Mountains,Remote Town,0.526,20,939,17759,7996,5986,11000,24.1299992,34243,30700
+University of Colorado Denver,Bachelor's,Graduate,Public,Rocky Mountains,Large City,0.7587,23,1073,18822,25568,9364,16750,24.6800003,36176,50100
+University of Colorado Colorado Springs,Bachelor's,Graduate,Public,Rocky Mountains,Large City,0.91,23,1068,16707,6820,7285,12500,22.8700008,48420,37300
+University of Colorado Boulder,Bachelor's,Graduate,Public,Rocky Mountains,Small City,0.8771,27,1192,27854,13949,10298,15000,20.6399994,73526,41600
+Colorado College,Bachelor's,Graduate,Private,Rocky Mountains,Large City,0.2228,30,1323,54200,20972,10886,17255,20.1299992,73379,34400
+Colorado School of Mines,Bachelor's,Graduate,Public,Rocky Mountains,Large Suburb,0.3743,29,1298,29091,13498,10579,22625,20.0200005,74554,73000
+Colorado State University-Fort Collins,Bachelor's,Graduate,Public,Rocky Mountains,Mid-size City,0.7743,25,1127,21823,10417,8869,16707.5,20.7900009,69107,39500
+University of Denver,Bachelor's,Graduate,Private,Rocky Mountains,Large City,0.7673,28,1231,53614,14113,8914,20832,22.8700008,55997.5,47600
+Fort Lewis College,Bachelor's,Bachelor's,Public,Rocky Mountains,Remote Town,0.875,23,1049,19565,6117,7028,10500,21.6499996,47128,30300
+Colorado Mesa University,Bachelor's,Graduate,Public,Rocky Mountains,Small City,0.8212,21,972,18077,5323,6428,11250,23.3400002,40837,32400
+Metropolitan State University of Denver,Bachelor's,Graduate,Public,Rocky Mountains,Large City,0.7116,21,973,14034,4898,5904,13450.5,25.0900002,32755,34900
+University of Northern Colorado,Bachelor's,Graduate,Public,Rocky Mountains,Small City,0.6957,22,1029,19105,7571,7487,14250,21.25,69484,36200
+Regis University,Bachelor's,Graduate,Private,Rocky Mountains,Large City,0.6986,24,1087,43058,6188,6685,20501,29.9400005,53578.5,49100
+Colorado State University-Pueblo,Bachelor's,Graduate,Public,Rocky Mountains,Mid-size City,0.9434,21,967,18007,5368,6619,12061,24.2199993,38635,33700
+Western State Colorado University,Bachelor's,Graduate,Public,Rocky Mountains,Remote Town,0.932,22,1005,18875,7812,6173,12000,21.6399994,60062.5,30100
+University of Bridgeport,Bachelor's,Graduate,Private,New England,Mid-size City,0.6385,20,923,45640,7757,7160,17500,24.6100006,36730,37600
+Central Connecticut State University,Bachelor's,Graduate,Public,New England,Large Suburb,0.6413,22,1006,20372,8990,8513,16852.5,21.2299995,66799.5,41200
+University of Connecticut,Bachelor's,Graduate,Public,New England,Large Suburb,0.5366,28,1233,25786,20908,11500,18983,20.1200008,86510,49700
+Eastern Connecticut State University,Bachelor's,Graduate,Public,New England,Fringe Town,0.6453,22,1017,22633,8554,8091,17500,21.1100006,76549,39500
+University of Hartford,Bachelor's,Graduate,Private,New England,Mid-size City,0.6173,23,1053,47368,12566,8178,19944,20.1499996,85192,39400
+University of New Haven,Bachelor's,Graduate,Private,New England,Large Suburb,0.7441,23,1034,48280,8635,9407,20500,20.6399994,78636,44000
+Post University,Bachelor's,Graduate,Private For-Profit,New England,Mid-size Suburb,0.8302,19,865,40723,3142,7340,8099,24.1499996,47674,34700
+Quinnipiac University,Bachelor's,Graduate,Private,New England,Large Suburb,0.6722,25,1102,53476,13065,8649,21852,19.8999996,108100,54100
+University of Saint Joseph,Bachelor's,Graduate,Private,New England,Small City,0.857,20,950,42885,10997,8193,23627,23.3299999,49233,44600
+Southern Connecticut State University,Bachelor's,Graduate,Public,New England,Mid-size City,0.7542,20,921,18628,10676,8318,17404,21.1499996,62972.5,38400
+Trinity College,Bachelor's,Graduate,Private,New England,Mid-size City,0.3178,27,1240,59865,23403,10884,19275,20.3199997,87726,50300
+Wesleyan University,Bachelor's,Graduate,Private,New England,Small City,0.2092,31,1387,61167,24442,11163,17625,19.3799992,88497,42000
+Yale University,Bachelor's,Graduate,Private,New England,Mid-size City,0.0705,34,1497,59320,106214,16042,12000,22.2999992,45652.5,70600
+Delaware State University,Bachelor's,Graduate,Public,Mid-Atlantic,Small City,0.4168,18,890,20506,10853,7478,15000,20.4400005,40163,30500
+University of Delaware,Bachelor's,Graduate,Public,Mid-Atlantic,Large Suburb,0.6468,27,1178,21748,17186,11834,21000,19.6900005,102027,50100
+Wesley College,Bachelor's,Graduate,Private,Mid-Atlantic,Small City,0.625,20,841,35199,6971,6703,14250,22.2800007,65621,38800
+American University,Bachelor's,Graduate,Private,Mid-Atlantic,Large City,0.4312,28,1258,55159,12700,11074,19500,20.0499992,86431,51600
+Catholic University of America,Bachelor's,Graduate,Private,Mid-Atlantic,Large City,0.6007,25,1118,54023,15799,9565,22000,21.2199993,106352,48900
+Gallaudet University,Bachelor's,Graduate,Private,Mid-Atlantic,Large City,0.6558,18,841,29852,33092,10183,12000,22.7299995,26730,26400
+George Washington University,Bachelor's,Graduate,Private,Mid-Atlantic,Large City,0.3308,29,1297,58925,19705,13058,22723,20.2999992,85746,60100
+Georgetown University,Bachelor's,Graduate,Private,Mid-Atlantic,Large City,0.1697,31,1398,59900,29282,12851,17125,21.8700008,60247,76200
+Howard University,Bachelor's,Graduate,Private,Mid-Atlantic,Large City,0.493,24,1081,40129,22191,8566,24250,20.9699993,47531,42400
+The Baptist College of Florida,Bachelor's,Bachelor's,Private,Southeast,Distant Town,0.4257,24,1062,15748,5781,4941,14425,24.1599999,38516.5,27200
+Barry University,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.4678,19,930,41019,10646,7696,21500,27.7299995,37767.5,42200
+Bethune-Cookman University,Bachelor's,Graduate,Private,Southeast,Small City,0.666,17,812,27017,5978,5838,18750,20.2000008,31109,23500
+Lynn University,Bachelor's,Graduate,Private,Southeast,Small City,0.776,20,940,48735,9124,5194,13000,22.4500008,56163,34400
+University of Central Florida,Bachelor's,Graduate,Public,Southeast,Large Suburb,0.4894,26,1175,19815,5403,8646,15000,22.1499996,38367.5,39300
+Clearwater Christian College,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.7009,22,1026,28463,5545,4964,13000,20.2700005,49122,31100
+Eckerd College,Bachelor's,Bachelor's,Private,Southeast,Mid-size City,0.7104,26,1138,49802,11371,7433,23000,24.6200008,71700,36000
+Edward Waters College,Bachelor's,Bachelor's,Private,Southeast,Large City,0.2732,17,802,22929,3304,4637,11351,22.1800003,22439,22000
+Embry-Riddle Aeronautical University-Daytona Beach,Bachelor's,Graduate,Private,Southeast,Small City,0.7405,24,1105,45648,16386,8505,16500,23.2299995,52839,53800
+Florida Agricultural and Mechanical University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.45,20,947,19191,7958,7994,20750,20.3199997,33649,32300
+Florida Atlantic University,Bachelor's,Graduate,Public,Southeast,Small City,0.4773,22,1039,19131,6131,7962,12500,23.6900005,32086,37800
+Flagler College-St Augustine,Bachelor's,Bachelor's,Private,Southeast,Small Suburb,0.4987,23,1096,28305,5796,6087,16500,21.8099995,61140,33800
+Florida College,Associate,Bachelor's,Private,Southeast,Large Suburb,0.5875,23,1060,25690,8775,6334,10750,19.4699993,67855,31200
+Adventist University of Health Sciences,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.1336,19,884,21358,8382,6539,15236,28.7099991,49657.5,51800
+Florida Institute of Technology,Bachelor's,Graduate,Private,Southeast,Small City,0.6045,26,1153,52490,10719,9025,8509,20.3600006,73416.5,50500
+Florida International University,Bachelor's,Graduate,Public,Southeast,Large Suburb,0.4304,26,1154,18426,6702,9653,13750,22.3899994,27626,40500
+Florida Southern College,Bachelor's,Graduate,Private,Southeast,Small City,0.4989,25,1102,38413,6857,7152,18375,21.8999996,56919.5,35900
+Florida State University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.5681,27,1212,20774,8596,9706,18750,20.7600002,51372.5,40000
+University of Florida,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.4655,29,1272,20456,15167,10498,14546,20.4899998,45776.5,46600
+Jacksonville University,Bachelor's,Graduate,Private,Southeast,Large City,0.4737,22,1010,42459,8135,6923,15000,25.4599991,55957,42100
+University of Miami,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.4044,30,1332,57700,28251,11115,18750,20.8700008,59417,51100
+University of North Florida,Bachelor's,Graduate,Public,Southeast,Large City,0.5343,25,1143,19415,5323,7279,14000,22.5900002,41844.5,38400
+Northwood University-Florida,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.5102,20,932,33485,6736,6891,18750,25.4599991,49456,40800
+Nova Southeastern University,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.5746,24,1084,40783,10921,9482,19482,27.1200008,31833,42300
+Palm Beach Atlantic University,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.8412,23,1061,37535,7805,7362,16297,24.4200001,57521,36000
+Rollins College,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.5889,27,1199,56309,12311,7767,23000,23.0300007,46391,40600
+University of South Florida-Main Campus,Bachelor's,Graduate,Public,Southeast,Large City,0.4524,26,1168,19299,8322,8082,16954,22.4899998,36808.5,37900
+St Thomas University,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.4567,19,904,37090,7162,9486,16500,25.6900005,35584,41600
+Stetson University,Bachelor's,Graduate,Private,Southeast,Mid-size Suburb,0.5925,26,1168,49939,11448,9877,18050,20.7099991,64137,36500
+Southeastern University,Bachelor's,Graduate,Private,Southeast,Small City,0.5932,20,955,30333,5231,6899,14250,22.6599999,55937,28300
+The University of Tampa,Bachelor's,Graduate,Private,Southeast,Large City,0.5221,24,1075,37714,6103,8424,17550.5,21.0100002,66421,40200
+Trinity Baptist College,Bachelor's,Graduate,Private,Southeast,Large City,0.4847,19,863,16752,2670,3450,5500,21.9599991,44214.5,26400
+Warner University,Bachelor's,Graduate,Private,Southeast,Fringe Rural,0.3378,19,908,28555,3166,4638,15306,28.25,38439.5,37000
+Webber International University,Bachelor's,Graduate,Private,Southeast,Fringe Town,0.6377,21,922,34949,3018,4783,9500,21.8799992,45832.5,31100
+The University of West Florida,Bachelor's,Graduate,Public,Southeast,Small City,0.4808,24,1062,18158,5710,7392,12500,23.7399998,34467,33400
+Abraham Baldwin Agricultural College,Associate,Bachelor's,Public,Southeast,Distant Town,0.709,19,897,14080,5121,4752,8198.5,22.9400005,31944,29200
+Albany State University,Bachelor's,Graduate,Public,Southeast,Small City,0.1992,19,887,19025,7089,5607,24500,22.4599991,29794,27900
+Andrew College,Associate,Associate,Private,Southeast,Distant Town,0.4013,17,825,26050,5501,3412,9000,19.7999992,37059,24500
+Armstrong Atlantic State University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.6998,21,997,19802,5392,5620,12750,24.4500008,34921,36300
+Point University,Bachelor's,Bachelor's,Private,Southeast,Distant Town,0.5353,20,946,27497,4477,5482,19500,21.8500004,56038,27800
+Clark Atlanta University,Bachelor's,Graduate,Private,Southeast,Large City,0.568,19,880,34201,8191,6418,20000,19.9200001,41956,29800
+Berry College,Bachelor's,Graduate,Private,Southeast,Small Suburb,0.6032,27,1186,40965,12857,7060,15750,19.7199993,71090,34600
+Brenau University,Bachelor's,Graduate,Private,Southeast,Small City,0.7829,20,957,34107,6630,6737,18638,28.2199993,40713,38100
+Brewton-Parker College,Bachelor's,Bachelor's,Private,Southeast,Distant Rural,0.5137,19,896,22499,4183,4805,10250,25.75,37869.5,29300
+College of Coastal Georgia,Associate,Bachelor's,Public,Southeast,Small City,0.8221,20,940,15501,6365,5595,7711,26.4200001,22006.5,26300
+Clayton State University,Bachelor's,Graduate,Public,Southeast,Large Suburb,0.477,20,939,17487,5310,6019,18997,26.2299995,30868,34900
+Columbus State University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.5543,21,984,17029,7030,6212,14750,23.2900009,35427.5,30700
+Covenant College,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.5704,26,1173,38510,8344,6841,18500,24.8199997,61514,37200
+Emory University,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.2633,31,1363,58180,33796,12133,19000,21.2000008,64962,56900
+Georgia Institute of Technology-Main Campus,Bachelor's,Graduate,Public,Southeast,Large City,0.5493,30,1352,21980,13939,11230,20750,20.0300007,82697,65700
+Georgia Southwestern State University,Bachelor's,Graduate,Public,Southeast,Distant Town,0.6803,20,950,17839,5645,5689,14500,24,31658.5,31500
+Georgia College and State University,Bachelor's,Graduate,Public,Southeast,Distant Town,0.6798,24,1126,23052,7476,6354,16250,20.7299995,72314,36300
+Georgia Southern University,Bachelor's,Graduate,Public,Southeast,Remote Town,0.52,23,1094,21513,6183,6217,16250,20.5900002,61757,36600
+Georgia State University,Bachelor's,Graduate,Public,Southeast,Large City,0.5466,23,1060,23124,7273,7149,17070,22.5699997,38306,37500
+University of Georgia,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.5608,28,1247,21162,8478,9015,16831,21.1900005,69003,42500
+Gordon State College,Associate,Bachelor's,Public,Southeast,Distant Town,0.4529,17,840,13091,4155,5168,8250,22.5100002,33817.5,28300
+Kennesaw State University,Bachelor's,Graduate,Public,Southeast,Large Suburb,0.5654,23,1068,20630,6179,6252,15000,24.5100002,41150.5,37200
+LaGrange College,Bachelor's,Graduate,Private,Southeast,Distant Town,0.5837,21,995,37305,12133,5532,18686.5,23.6599999,63008.5,38000
+Mercer University,Bachelor's,Graduate,Private,Southeast,Small City,0.69,26,1171,46382,10646,7918,21500,26.6399994,48287.5,43900
+Morehouse College,Bachelor's,Bachelor's,Private,Southeast,Large City,0.6684,21,990,45451,11151,6903,25999.5,19.6399994,53238.5,36200
+Oglethorpe University,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.5576,25,1131,43689,8645,4728,18459,22.3299999,46214.5,37600
+Paine College,Bachelor's,Bachelor's,Private,Southeast,Mid-size City,0.4377,16,778,21516,8877,5423,15150,20.7000008,27737,21800
+Piedmont College,Bachelor's,Graduate,Private,Southeast,Distant Town,0.6118,22,1001,32031,6381,5734,16703,25.7800007,49580.5,37000
+Reinhardt University,Bachelor's,Graduate,Private,Southeast,Fringe Rural,0.514,22,1013,30734,6378,5710,9500,22.6000004,67316.5,33600
+Savannah College of Art and Design,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.6547,24,1078,49179,10302,8024,21521.5,20.4599991,78907,29700
+Savannah State University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8299,18,847,15531,5129,5294,17126,20.8600006,31664,26800
+Shorter University,Bachelor's,Graduate,Private,Southeast,Small City,0.6807,21,954,30642,5532,5154,25250,31.6100006,48847,43000
+Spelman College,Bachelor's,Bachelor's,Private,Southeast,Large City,0.3802,22,1024,41635,11178,7514,25500,19.9400005,54315,40600
+Southern Polytechnic State University,Bachelor's,Graduate,Public,Southeast,Small City,0.7798,24,1123,16546,6169,5941,14750,23.4699993,44584,48900
+Toccoa Falls College,Bachelor's,Bachelor's,Private,Southeast,Fringe Rural,0.494,20,1000,30178,4794,5049,15250,20.7700005,50289,24600
+Truett-McConnell College,Bachelor's,Bachelor's,Private,Southeast,Fringe Rural,0.8064,20,939,26484,3853,3858,9960,20.1499996,62264,27800
+Valdosta State University,Bachelor's,Graduate,Public,Southeast,Small City,0.5522,22,1033,20958,5873,5998,16000,21.7199993,51351,34300
+Wesleyan College,Bachelor's,Graduate,Private,Southeast,Small City,0.4339,20,982,30878,11411,7250,19000,24.5100002,37243.5,32000
+University of West Georgia,Bachelor's,Graduate,Public,Southeast,Fringe Town,0.5385,20,950,18879,6178,5787,14250,22.2800007,51454,32800
+Young Harris College,Bachelor's,Bachelor's,Private,Southeast,Remote Rural,0.5365,21,980,34007,8802,6076,10500,19.7199993,57743.5,31200
+Chaminade University of Honolulu,Bachelor's,Graduate,Private,Far West,Large City,0.8359,21,972,30801,8093,8006,15969.5,23.9099999,35422,37600
+University of Hawaii at Hilo,Bachelor's,Graduate,Public,Far West,Remote Town,0.752,21,967,15284,12842,8745,11293,23.1299992,29592,30400
+University of Hawaii at Manoa,Bachelor's,Graduate,Public,Far West,Large City,0.8009,24,1087,18491,17768,10360,13750,22.3299999,39485,38500
+Hawaii Pacific University,Bachelor's,Graduate,Private,Far West,Large City,0.6411,22,1005,29762,6203,8603,16250,23.5200005,41600,42100
+University of Hawaii-West Oahu,Bachelor's,Bachelor's,Public,Far West,Large Suburb,0.7643,19,891,9874,9141,8488,8045,31.5799999,21363,37400
+Boise Bible College,Bachelor's,Bachelor's,Private,Rocky Mountains,Large Suburb,1,20,977,23036,2285,5317,10250,22.6200008,38165,23500
+Boise State University,Bachelor's,Graduate,Public,Rocky Mountains,Mid-size City,0.7766,23,1050,18227,6777,6905,16309,24.6100006,33780.5,33000
+University of Idaho,Bachelor's,Graduate,Public,Rocky Mountains,Fringe Rural,0.6565,23,1070,19700,10938,7986,18550,21.4599991,51484,35800
+The College of Idaho,Bachelor's,Graduate,Private,Rocky Mountains,Mid-size Suburb,0.905,24,1070,34555,7465,5969,20000,20.3500004,65590,34900
+Lewis-Clark State College,Bachelor's,Bachelor's,Public,Rocky Mountains,Small City,0.9977,20,936,16184,6049,5512,12500,25.6599999,30202,29700
+Northwest Nazarene University,Bachelor's,Graduate,Private,Rocky Mountains,Mid-size Suburb,0.617,25,1079,34498,6722,5691,19500,22.2700005,60526,32300
+Brigham Young University-Idaho,Bachelor's,Bachelor's,Private,Rocky Mountains,Distant Town,0.9963,23,1036,10438,4198,8206,7725,21.2700005,31581,33800
+School of the Art Institute of Chicago,Bachelor's,Graduate,Private,Great Lakes,Large City,0.7184,23,1065,55551,14724,9208,19503,22.3799992,42495.5,28800
+Aurora University,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.7595,22,1011,31145,4697,7064,15000,22.2000008,61464,36600
+Blackburn College,Bachelor's,Bachelor's,Private,Great Lakes,Distant Town,0.6799,22,1034,24126,6984,5861,14000,20.2800007,57207,32600
+Bradley University,Bachelor's,Graduate,Private,Great Lakes,Mid-size City,0.6694,26,1163,40330,14790,8424,23677,20.1599999,85839,45000
+Chicago State University,Bachelor's,Graduate,Public,Great Lakes,Large City,0.2865,19,892,18472,14592,7512,20862.5,26.4200001,19349,31200
+University of Chicago,Bachelor's,Graduate,Private,Great Lakes,Large City,0.0881,34,1504,62425,74864,16589,17610,21.8099995,53224,58700
+Concordia University-Chicago,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.5441,22,1030,34774,8334,4134,15750,22.0699997,61882,36400
+DePaul University,Bachelor's,Graduate,Private,Great Lakes,Large City,0.5987,26,1163,46375,11612,10392,20500,22.2800007,54683,44800
+Eastern Illinois University,Bachelor's,Graduate,Public,Great Lakes,Remote Town,0.6191,22,1010,23346,12690,7773,18750,21.3299999,69586,36000
+Elmhurst College,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.718,24,1084,41472,8096,7596,18791.5,22.2199993,67472.5,42700
+Eureka College,Bachelor's,Bachelor's,Private,Great Lakes,Fringe Town,0.6781,23,1053,28799,7252,5887,19000,21.5400009,70145,28900
+Greenville College,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.657,22,1033,33675,6925,5649,16568,23.2199993,61294,32400
+Hebrew Theological College,Bachelor's,Graduate,Private,Great Lakes,Small City,0.9299,21,1019,33966,7564,5525,5500,19.1200008,41588,20600
+University of Illinois at Chicago,Bachelor's,Graduate,Public,Great Lakes,Large City,0.714,24,1092,25248,25773,9797,14750,21.0699997,41721,47000
+Benedictine University,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.695,22,1030,35481,5558,7686,17188,24.9500008,53068,43400
+University of Illinois at Urbana-Champaign,Bachelor's,Graduate,Public,Great Lakes,Small City,0.6239,29,1303,28564,13674,11576,19399,19.6700001,85462,50700
+Illinois Wesleyan University,Bachelor's,Bachelor's,Private,Great Lakes,Small City,0.5838,28,1241,48522,15537,7853,25000,19.3899994,103114.5,48500
+Illinois College,Bachelor's,Bachelor's,Private,Great Lakes,Distant Town,0.6129,22,1024,36829,9488,5171,20000,19.7000008,74965,34400
+Illinois Institute of Technology,Bachelor's,Graduate,Private,Great Lakes,Large City,0.5697,28,1252,48940,12231,11256,22015,21.4400005,55985.5,61700
+Illinois State University,Bachelor's,Graduate,Public,Great Lakes,Mid-size Suburb,0.6892,24,1110,25416,9950,7665,18750,20.4599991,82019,40600
+Judson University,Bachelor's,Graduate,Private,Great Lakes,Mid-size City,0.7069,23,1045,37635,8737,6071,18245.5,26.3999996,67400.5,36300
+Lake Forest College,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.5727,26,1157,49743,10173,8231,24000,19.6800003,81078,41600
+Lewis University,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.5587,24,1088,34079,8122,9021,20000,22.75,71614,43500
+Lincoln Christian University,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.6875,22,996,25309,5975,5114,18012,23.6599999,56424,27400
+Lincoln College,Associate,Bachelor's,Private,Great Lakes,Distant Town,0.8747,18,850,28702,4147,4978,9500,20.8799992,51915,25700
+Loyola University Chicago,Bachelor's,Graduate,Private,Great Lakes,Large City,0.914,27,1195,47727,11462,9432,22934,20.5100002,67583.5,45500
+MacMurray College,Bachelor's,Bachelor's,Private,Great Lakes,Distant Town,0.7488,21,964,30843,6297,5360,18000,21.7800007,56550.5,32700
+McKendree University,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.6289,23,1046,37004,5614,6641,17613,24.4300003,52208,40500
+Millikin University,Bachelor's,Graduate,Private,Great Lakes,Small City,0.5512,24,1087,39576,8378,5844,22000,21.9699993,68264.5,38600
+Monmouth College,Bachelor's,Bachelor's,Private,Great Lakes,Remote Town,0.6431,23,1049,40578,9453,6770,22000,19.75,76102,35500
+North Central College,Bachelor's,Graduate,Private,Great Lakes,Mid-size City,0.6365,25,1125,41218,8407,7337,20000,20.7299995,83750,40100
+North Park University,Bachelor's,Graduate,Private,Great Lakes,Large City,0.5234,22,1030,31065,6660,7535,18750,22.2999992,60232.5,37300
+Northern Illinois University,Bachelor's,Graduate,Public,Great Lakes,Small Suburb,0.5613,22,1010,27621,12208,7834,16500,20.7600002,64181,39500
+Northwestern University,Bachelor's,Graduate,Private,Great Lakes,Small City,0.1532,33,1458,60729,34438,14525,18234,21.5,71885.5,58100
+Northeastern Illinois University,Bachelor's,Graduate,Public,Great Lakes,Large City,0.5981,19,890,22273,11837,6988,11643.5,24.6399994,25711.5,33100
+Olivet Nazarene University,Bachelor's,Graduate,Private,Great Lakes,Small Suburb,0.8196,24,1105,39125,4740,6769,19802,22.75,68140,33900
+Quincy University,Bachelor's,Graduate,Private,Great Lakes,Remote Town,0.8859,23,1048,36948,5006,5436,14000,21.5799999,61719.5,33500
+Rockford University,Bachelor's,Graduate,Private,Great Lakes,Mid-size City,0.4097,22,1029,37253,5854,5567,18750,25.4799995,45484,37400
+Roosevelt University,Bachelor's,Graduate,Private,Great Lakes,Large City,0.7878,22,1035,43650,10188,7992,18144,25.8600006,39566.5,39400
+Dominican University,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.5997,22,1031,36307,9940,6685,18656,21.6000004,58497.5,40100
+University of St Francis,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.5141,23,1070,36226,7644,7543,21000,24.4699993,73669,44700
+Saint Xavier University,Bachelor's,Graduate,Private,Great Lakes,Large City,0.5054,22,1010,35284,8567,7886,19150,22.5900002,53937,40800
+University of Illinois at Springfield,Bachelor's,Graduate,Public,Great Lakes,Mid-size City,0.5977,24,1085,21385,10685,7464,15000,25.2099991,42542.5,40000
+Southern Illinois University-Carbondale,Bachelor's,Graduate,Public,Great Lakes,Small City,0.7887,22,1032,24234,16344,7208,15245,22.1700001,47485,37400
+Southern Illinois University-Edwardsville,Bachelor's,Graduate,Public,Great Lakes,Large Suburb,0.8419,23,1050,21137,12487,7859,14317,21.5400009,56221,37800
+Trinity Christian College,Bachelor's,Bachelor's,Private,Great Lakes,Large Suburb,0.9022,23,1053,33611,10993,6506,21411,23.8099995,70413,37800
+Trinity International University-Illinois,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.9372,23,1049,37929,8735,7250,20422,27.2099991,49308.5,37200
+Western Illinois University,Bachelor's,Graduate,Public,Great Lakes,Remote Town,0.5931,21,970,24375,11290,8263,17729,20.9699993,65915,37200
+Wheaton College,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.6871,30,1318,41394,14865,8328,21179,19.5200005,83641,39700
+Anderson University,Bachelor's,Graduate,Private,Great Lakes,Small City,0.5545,23,1053,37937,8062,6395,23000,21.5100002,72723,33400
+Ball State University,Bachelor's,Graduate,Public,Great Lakes,Small City,0.6054,22,1053,21101,9700,7305,18686,20.5599995,73544,35800
+Bethel College-Indiana,Bachelor's,Graduate,Private,Great Lakes,Small City,0.7158,24,1047,33617,7756,5506,18275,25.7399998,54043,33200
+Butler University,Bachelor's,Graduate,Private,Great Lakes,Large City,0.661,28,1212,47010,12922,7980,25000,20.0900002,99069,50700
+Calumet College of Saint Joseph,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.4,18,855,19530,6949,5564,15500,29.1700001,39621,38700
+DePauw University,Bachelor's,Bachelor's,Private,Great Lakes,Distant Town,0.6121,27,1215,51050,18330,8900,21000,19.4899998,92959,44800
+Earlham College,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.637,29,1262,50930,19527,7391,21197,19.8600006,79944,29900
+University of Evansville,Bachelor's,Graduate,Private,Great Lakes,Mid-size City,0.8409,26,1147,42674,10365,7658,23638,20.4899998,73591.5,37000
+Franklin College,Bachelor's,Bachelor's,Private,Great Lakes,Large Suburb,0.6002,22,1010,37962,8715,6524,24500,19.7900009,77176.5,37400
+Goshen College,Bachelor's,Graduate,Private,Great Lakes,Small City,0.5506,26,1123,37707,10729,5509,17000,22.1700001,71149,34400
+Grace College and Theological Seminary,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.7884,23,1050,32506,5818,5839,17675,20.1700001,71611,33800
+Hanover College,Bachelor's,Bachelor's,Private,Great Lakes,Distant Town,0.6673,26,1130,42198,13801,7847,22225,19.5699997,82681,37300
+Holy Cross College,Bachelor's,Bachelor's,Private,Great Lakes,Large Suburb,0.7231,23,1014,33660,7233,4545,14000,20.3099995,83600,30200
+Huntington University,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.9732,24,1054,34764,8241,5945,21875,21.5499992,72496.5,31900
+Indiana University-Purdue University-Fort Wayne,Bachelor's,Graduate,Public,Great Lakes,Large City,0.8309,22,996,18837,6082,7355,15517,23.3999996,45905.5,32000
+Indiana University-Purdue University-Indianapolis,Bachelor's,Graduate,Public,Great Lakes,Large City,0.6958,22,1013,20846,15311,7713,16500,23.6900005,43017,37400
+University of Indianapolis,Bachelor's,Graduate,Private,Great Lakes,Large City,0.8443,22,1018,36158,8024,6903,19200,23.1200008,58141,36700
+Indiana Institute of Technology,Bachelor's,Graduate,Private,Great Lakes,Large City,0.7225,20,934,35911,3479,6965,10250,29.1599999,43973.5,37600
+University of Southern Indiana,Bachelor's,Graduate,Public,Great Lakes,Mid-size Suburb,0.6934,22,1004,17996,5112,6363,13500,21.2600002,57798,31300
+Indiana State University,Bachelor's,Graduate,Public,Great Lakes,Small City,0.8306,19,910,19549,7430,7071,11726.5,21.9300003,52313,33100
+Indiana University-Kokomo,Bachelor's,Graduate,Public,Great Lakes,Small City,0.7355,21,950,15874,5515,5680,12050,25.4099999,42220,33900
+Indiana University-South Bend,Bachelor's,Graduate,Public,Great Lakes,Mid-size City,0.7003,21,962,17377,7174,5575,14000,24,42462,31300
+Indiana University-Bloomington,Bachelor's,Graduate,Public,Great Lakes,Small City,0.7217,27,1198,23043,13471,9431,19500,20.2600002,80326,42000
+Indiana University-Northwest,Bachelor's,Graduate,Public,Great Lakes,Small City,0.7625,20,918,18092,6481,6557,14950,25.5499992,29342,34100
+Indiana University-Southeast,Bachelor's,Graduate,Public,Great Lakes,Large Suburb,0.7945,20,950,16753,6512,6539,12500,23.5499992,41532,32800
+Indiana University-East,Bachelor's,Graduate,Public,Great Lakes,Fringe Rural,0.5381,21,943,15334,5273,5755,13336,25.7600002,33572,27600
+Manchester University,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.7116,22,1017,38505,5778,6924,19500,19.9099999,74409.5,35900
+Marian University,Bachelor's,Graduate,Private,Great Lakes,Large City,0.5795,22,1024,39369,8781,5762,23412.5,26.1200008,48632,39800
+Indiana Wesleyan University,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.9515,24,1083,33770,3954,6853,21500,31.1700001,61954.5,45100
+University of Notre Dame,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.223,33,1450,57805,26795,12629,20300,20.0900002,106005,63200
+Oakland City University,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.7285,22,988,31104,4833,3610,10500,25.4899998,40279.5,30600
+Purdue University-North Central Campus,Bachelor's,Graduate,Public,Great Lakes,Fringe Rural,0.7218,20,954,13713,4976,6971,12285.5,23.6900005,47378,32800
+Rose-Hulman Institute of Technology,Bachelor's,Graduate,Private,Great Lakes,Small City,0.5622,30,1310,55413,20879,8411,26000,19.5,91307,71300
+University of Saint Francis-Fort Wayne,Bachelor's,Graduate,Private,Great Lakes,Large City,0.5362,21,981,31516,7513,5666,20000,23.6100006,63504,36600
+Saint Josephs College,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.6419,22,998,37135,6339,5443,13576.5,20.3099995,75145.5,35800
+Saint Mary-of-the-Woods College,Bachelor's,Graduate,Private,Great Lakes,Fringe Rural,0.9754,19,895,40349,10418,4867,19813,29.7999992,47554,29800
+Saint Mary's College,Bachelor's,Bachelor's,Private,Great Lakes,Large Suburb,0.8568,26,1141,45920,14363,6258,26814,19.5100002,103102,41800
+Taylor University,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.876,28,1214,38845,9780,6365,20500,20.8700008,71404,32800
+Trine University,Bachelor's,Graduate,Private,Great Lakes,Distant Town,0.7157,24,1095,40679,5574,7319,16950,23.3400002,59270,39200
+Valparaiso University,Bachelor's,Graduate,Private,Great Lakes,Large Suburb,0.7969,26,1158,43185,10489,7280,23250,20.5599995,81419.5,42400
+Buena Vista University,Bachelor's,Graduate,Private,Great Plains,Remote Town,0.6955,23,1050,39011,7412,6736,17879,24.8799992,47120.5,36100
+Central College,Bachelor's,Bachelor's,Private,Great Plains,Distant Town,0.658,24,1089,43491,11755,6790,27000,19.6100006,77865,39200
+Clarke University,Bachelor's,Graduate,Private,Great Plains,Small City,0.7752,23,1048,38062,8045,6109,20500,22.0200005,60813.5,35800
+Coe College,Bachelor's,Graduate,Private,Great Plains,Mid-size City,0.6171,26,1166,45387,11825,7662,21875,20.4099999,75314,40300
+Cornell College,Bachelor's,Bachelor's,Private,Great Plains,Fringe Town,0.6411,26,1182,46135,9227,6592,25015,19.6599999,82517,35100
+Dordt College,Bachelor's,Graduate,Private,Great Plains,Remote Town,0.7542,25,1119,37080,8671,5959,19500,19.6700001,74121,35600
+Drake University,Bachelor's,Graduate,Private,Great Plains,Mid-size City,0.6595,28,1240,42477,9273,9108,21500,20.2700005,88132.5,48000
+University of Dubuque,Bachelor's,Graduate,Private,Great Plains,Small City,0.7742,20,926,34206,6971,6274,17114,20.9599991,57825,32900
+Faith Baptist Bible College and Theological Seminary,Bachelor's,Graduate,Private,Great Plains,Large Suburb,0.6693,22,1028,24930,6813,4992,12000,20.3700008,49742,29200
+Graceland University-Lamoni,Bachelor's,Graduate,Private,Great Plains,Remote Rural,0.5018,21,969,34494,8769,4986,18089.5,23.2800007,52671.5,33200
